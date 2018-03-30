@@ -1,3 +1,5 @@
+//1-6
+
 //1-7
 #include<stdio.h>
 int main()
